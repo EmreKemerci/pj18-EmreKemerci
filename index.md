@@ -1,7 +1,7 @@
 ##### [Homepage](https://emrekemerci.github.io/EmreKemerci/)			
 ##### [Course Homepage](https://mef-bda503.github.io/)	
 ## Final Exam
-[Final Exam](Final/FinalExam.pdf) and [My Paper]()
+[Final Exam](Final/FinalExam.pdf) and [My Paper](Final/Final.pdf)
 
 ***
 ## Week7 (Dec 26, 2018)
